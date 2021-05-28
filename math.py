@@ -16,4 +16,4 @@ def div(x,y):
 
 # Square implemention
 def square(x):
-    pass
+    return x**2
