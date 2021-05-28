@@ -1,6 +1,8 @@
 # Add implemention
 def add(x,y):
-	return x + y
+	# returns addition
+    return x + y
+    
 # Subtract implemention
 def sub(x,y):
 	return x - y       # on master branch
