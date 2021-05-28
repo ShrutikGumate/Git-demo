@@ -5,6 +5,7 @@ def add(x,y):
     
 # Subtract implemention
 def sub(x,y):
+    # returns subtraction
 	return x - y       # on master branch
 # Multiply implemention
 def mul(x,y):
