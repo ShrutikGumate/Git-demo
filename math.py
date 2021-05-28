@@ -9,6 +9,7 @@ def sub(x,y):
 	return x - y       # on master branch
 # Multiply implemention
 def mul(x,y):
+    # returns multiplication        # on Feature1 branch
 	return x*y      
 # Division implemention
 def div(x,y):
